@@ -1,2 +1,2 @@
-# Maze-Escape
-A Python-based Maze Escape project that uses functions and recursion to explore the maze and determine a valid escape path.
+# Hangman
+This project implements a Hangman game in Python using control flow, functions, loops, lists, the random module, and ASCII art to reinforce core programming fundamentals.
